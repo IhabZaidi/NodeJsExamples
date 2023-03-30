@@ -1,0 +1,12 @@
+# Ignore directories named 'ignore'
+ignore/
+
+# Ignore node_modules and .vscode folders in folders under '01' and '02'
+1-todo-list-example/node_modules/
+1-todo-list-example/.vscode/
+2-blogger-example/node_modules/
+2-blogger-example/.vscode/
+
+# Ignore node_modules and .vscode folders in the root directory
+node_modules/
+.vscode/
